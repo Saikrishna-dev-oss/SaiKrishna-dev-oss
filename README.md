@@ -51,10 +51,10 @@ Here are a few projects that best represent my skillset:
 
 I am always open to discussing new projects, collaboration opportunities, or general tech conversations.
 
-* **LinkedIn:** [Mangali Sai Krishna](https://www.linkedin.com/in/mangali-sai-krishna/)
-* **Github:** [Saikrishna-dev-oss](https://github.com/Saikrishna-dev-oss)
-* **Personal Portfolio:** [[Portfolio](https://saikrishna-dev-oss.github.io/PORTFOLIO/)]
-* **Email:** [mangalisaikrishna003@gmail.com]
-
+* **LinkedIn:** <a href="https://www.linkedin.com/in/mangali-sai-krishna/" target="_blank">Mangali Sai Krishna</a>
+* **Github:** <a href="https://github.com/Saikrishna-dev-oss" target="_blank">Saikrishna-dev-oss</a>
+* **Personal Portfolio:** <a href="https://saikrishna-dev-oss.github.io/PORTFOLIO/" target="_blank">Portfolio</a>
+* **Email:** mangalisaikrishna003@gmail.com
+  
 ***Thanks for visiting! Feel free to explore my repositories.***
-## 📧 Let's Connect!
+
