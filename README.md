@@ -32,7 +32,19 @@ Clean architecture, optimized performance, and original logic—every line of co
 > **Specialties:** Environment Isolation, Package Integrity, **Modular API Design**, **OOP**, AIML Application
 
 ---
+## 💻 My Top Languages
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikrishna-dev-oss&layout=compact&theme=outrun&hide_border=true&langs_count=10" alt="Mangali Sai Krishna's Top 10 Languages" />
+</p>
+---
+## 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saikrishna-dev-oss&show_icons=true&theme=outrun&hide_border=true&count_private=true" alt="Mangali Sai Krishna's GitHub Stats" />
+</p>
+
+---
 ## 💡 Highlighted Projects
 
 Here are a few projects that best represent my skillset:
@@ -51,19 +63,6 @@ Here are a few projects that best represent my skillset:
 * 
 ---
 
-## 💻 My Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikrishna-dev-oss&layout=compact&theme=dracula&hide_border=true&langs_count=10" alt="Mangali Sai Krishna's Top 10 Languages" />
-</p>
----
-## 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saikrishna-dev-oss&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Mangali Sai Krishna's GitHub Stats" />
-</p>
-
----
 
 ## 🌐 Explore My Portfolio
 🔗 [saikrishna-dev-oss.github.io/PORTFOLIO](https://saikrishna-dev-oss.github.io/PORTFOLIO)  
