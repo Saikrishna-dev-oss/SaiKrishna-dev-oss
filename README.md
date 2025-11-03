@@ -10,6 +10,11 @@ I am a Second-year B.Tech student specializing in **Computer Science Engineering
 
 I believe in leveraging Python to tackle complex data structures and constructing robust backend systems. My work emphasizes:
 
+---
+
+## My Engineering Philosophy
+Clean architecture, optimized performance, and original logic—every line of code should earn its place.
+
 * ✨ **Modular Architecture:** Creating clean, maintainable, and reusable codebases.
 * ⚙️ **API Development:** Implementing performance-optimized microservices using frameworks like Flask.
 * 🧠 **AI/ML Application:** Bridging theoretical knowledge with practical implementation in data analysis and model development.
@@ -45,17 +50,27 @@ Here are a few projects that best represent my skillset:
 * **Technologies:** **Java**, **Swing/JavaFX**, OOP principles, Randomization algorithms.
 * 
 ---
-## 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saikrishna-dev-oss&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Mangali Sai Krishna's GitHub Stats" />
-</p>
 
 ## 💻 My Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikrishna-dev-oss&layout=compact&theme=vue&hide_border=true" alt="Mangali Sai Krishna's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikrishna-dev-oss&layout=compact&theme=dracula&hide_border=true&langs_count=10" alt="Mangali Sai Krishna's Top 10 Languages" />
 </p>
+---
+## 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saikrishna-dev-oss&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Mangali Sai Krishna's GitHub Stats" />
+</p>
+
+---
+
+## 🌐 Explore My Portfolio
+🔗 [saikrishna-dev-oss.github.io/PORTFOLIO](https://saikrishna-dev-oss.github.io/PORTFOLIO)  
+A showcase of my projects, skills, and contact info—all in one place.
+
+
+---
 
 ## 📧 Let's Connect!
 
@@ -64,6 +79,6 @@ I am always open to discussing new projects, collaboration opportunities, or gen
 * **LinkedIn:** <a href="https://www.linkedin.com/in/mangali-sai-krishna/" target="_blank">Mangali Sai Krishna</a>
 * **Github:** <a href="https://github.com/Saikrishna-dev-oss" target="_blank">Saikrishna-dev-oss</a>
 * **Personal Portfolio:** <a href="https://saikrishna-dev-oss.github.io/PORTFOLIO/" target="_blank">Portfolio</a>
-* **Email:** [mangalisaikrishna003@gmail.com]
+* **Email:** mangalisaikrishna003@gmail.com
 
 ***Thanks for visiting! Feel free to explore my repositories.***
