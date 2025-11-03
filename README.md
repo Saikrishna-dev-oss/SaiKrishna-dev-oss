@@ -1,12 +1,12 @@
 # 👋 Hi there! I'm Mangali Sai Krishna!
 
-### 💻 B.Tech CSE Student & 🤖 AI/ML Enthusiast
+### 💻 Bachelor of Technology (B.Tech) Student & 🤖 Artificial Intelligence/Machine Learning Enthusiast
 
 ---
 
 ## 🚀 About Me
 
-I am a final-year B.Tech student specializing in **Computer Science Engineering (CSE)** with a core focus on **Artificial Intelligence and Machine Learning (AIML)**. My passion lies in designing and building efficient, scalable, and modular software solutions.
+I am a Second-year B.Tech student specializing in **Computer Science Engineering (CSE)** with a core focus on **Artificial Intelligence and Machine Learning (AIML)**. My passion lies in designing and building efficient, scalable, and modular software solutions.
 
 I believe in leveraging Python to tackle complex data structures and constructing robust backend systems. My work emphasizes:
 
@@ -20,7 +20,7 @@ I believe in leveraging Python to tackle complex data structures and constructin
 
 > **Languages:** C, **Python** 🐍, **Java** ☕, SQL, HTML, CSS
 > 
-> **Frameworks:** **Flask** 🌐, **AWT/Swing/JavaFX** (Java GUI), Maven
+> **Frameworks:** **Flask** 🌐, **AWT/Swing/JavaFX** (Java GUI)
 > 
 > **Tools:** PyCharm, VS Code, Git, GitHub, Eclipse, IntelliJ, Jupyter
 > 
@@ -43,14 +43,19 @@ Here are a few projects that best represent my skillset:
 * **Focus:** **Object-Oriented Programming (OOP)** and **GUI Implementation**.
 * **Description:** A classic slot machine game built using Java, showcasing strong understanding of class structure, random number generation, and user interface development with Java's GUI libraries.
 * **Technologies:** **Java**, **Swing/JavaFX**, OOP principles, Randomization algorithms.
-
-### 3. Modular Flask API Microservice 🏗️
-
-* **Focus:** Clean architecture and RESTful backend design.
-* **Description:** A demonstration of building a small, scalable, and performant API following best practices in modular Flask architecture.
-* **Technologies:** Flask, Python, RESTful API principles
-
+* 
 ---
+## 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saikrishna-dev-oss&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Mangali Sai Krishna's GitHub Stats" />
+</p>
+
+## 💻 My Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikrishna-dev-oss&layout=compact&theme=vue&hide_border=true" alt="Mangali Sai Krishna's Top Languages" />
+</p>
 
 ## 📧 Let's Connect!
 
