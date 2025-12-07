@@ -33,13 +33,13 @@ Clean architecture, optimized performance, and original logic—every line of co
 
 ---
 ## 💻 My Top Languages
+
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikrishna-dev-oss&layout=compact&theme=radical&hide_border=true&langs_count=10" 
+    src="https://github-readme-stats-delta-mocha-31.vercel.app/api/top-langs/?username=Saikrishna-dev-oss&layout=compact&theme=radical&hide_border=true&langs_count=10" 
     alt="Mangali Sai Krishna's Top 10 Languages" 
   />
 </p>
-
 
 ---
 
@@ -47,7 +47,7 @@ Clean architecture, optimized performance, and original logic—every line of co
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Saikrishna-dev-oss&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+    src="https://github-readme-stats-delta-mocha-31.vercel.app/api?username=Saikrishna-dev-oss&show_icons=true&theme=radical&hide_border=true&count_private=true" 
     alt="Mangali Sai Krishna's GitHub Stats" 
   />
 </p>
