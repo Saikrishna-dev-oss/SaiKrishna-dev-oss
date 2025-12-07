@@ -33,18 +33,24 @@ Clean architecture, optimized performance, and original logic—every line of co
 
 ---
 ## 💻 My Top Languages
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikrishna-dev-oss&layout=compact&theme=radical&hide_border=true&langs_count=10" 
+    alt="Mangali Sai Krishna's Top 10 Languages" 
+  />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikrishna-dev-oss&layout=compact&theme=outrun&hide_border=true&langs_count=10" alt="Mangali Sai Krishna's Top 10 Languages" />
-</div>
 
 ---
 
 ## 📈 My GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saikrishna-dev-oss&show_icons=true&theme=outrun&hide_border=true&count_private=true" alt="Mangali Sai Krishna's GitHub Stats" />
-</div>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Saikrishna-dev-oss&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+    alt="Mangali Sai Krishna's GitHub Stats" 
+  />
+</p>
 
 ---
 ## 💡 Highlighted Projects
