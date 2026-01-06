@@ -42,17 +42,6 @@ Clean architecture, optimized performance, and original logic—every line of co
 </p>
 
 ---
-
-## 📈 My GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-delta-mocha-31.vercel.app/api?username=Saikrishna-dev-oss&show_icons=true&theme=radical&hide_border=true&count_private=true" 
-    alt="Mangali Sai Krishna's GitHub Stats" 
-  />
-</p>
-
----
 ## 💡 Highlighted Projects
 
 Here are a few projects that best represent my skillset:
