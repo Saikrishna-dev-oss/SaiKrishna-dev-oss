@@ -32,16 +32,6 @@ Clean architecture, optimized performance, and original logic—every line of co
 > **Specialties:** Environment Isolation, Package Integrity, **Modular API Design**, **OOP**, AIML Application
 
 ---
-## 💻 My Top Languages
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-delta-mocha-31.vercel.app/api/top-langs/?username=Saikrishna-dev-oss&layout=compact&theme=radical&hide_border=true&langs_count=10&exclude_repo=github-readme-stats" 
-    alt="Mangali Sai Krishna's Top 10 Languages" 
-  />
-</p>
-
----
 ## 💡 Highlighted Projects
 
 Here are a few projects that best represent my skillset:
