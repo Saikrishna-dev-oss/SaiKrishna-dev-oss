@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Mangali Sai Krishna!
 
-### 💻 Bachelor of Technology (B.Tech) Student & 🤖 Artificial Intelligence/Machine Learning Enthusiast
+### 💻 Bachelor of Technology (B.Tech) Student & 🤖 Artificial Intelligence/Machine Learning Engineer
 
 ---
 
@@ -23,7 +23,7 @@ Clean architecture, optimized performance, and original logic—every line of co
 
 ## 🛠️ My Technical Expertise
 
-> **Languages:** C, **Python** 🐍, **Java** ☕, SQL, HTML, CSS
+> **Languages:** C, **Python** 🐍, **Java** ☕, SQL, HTML, CSS, JS
 > 
 > **Frameworks:** **Flask** 🌐, **AWT/Swing/JavaFX** (Java GUI)
 > 
