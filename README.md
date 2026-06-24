@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am a Second-year B.Tech student specializing in **Computer Science Engineering (CSE)** with a core focus on **Artificial Intelligence and Machine Learning (AIML)**. My passion lies in designing and building efficient, scalable, and modular software solutions.
+I am a Third-year B.Tech student specializing in **Computer Science Engineering (CSE)** with a core focus on **Artificial Intelligence and Machine Learning (AIML)**. My passion lies in designing and building efficient, scalable, and modular software solutions.
 
 I believe in leveraging Python to tackle complex data structures and constructing robust backend systems. My work emphasizes:
 
